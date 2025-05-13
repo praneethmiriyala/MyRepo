@@ -10,3 +10,9 @@ ssh-keygen -o  --> ssh key generator
 
 ####
 get the user data ......
+
+git remote -v --> helps with info
+
+git push origin main && git push origin v1.1
+
+I am adding one more lines.
