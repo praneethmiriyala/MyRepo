@@ -1,0 +1,5 @@
+Get the users data
+
+Process the data 
+
+Create an avatar.
