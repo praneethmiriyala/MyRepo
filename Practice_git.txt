@@ -1,0 +1,9 @@
+git status --> to know the status.
+
+git push -u origin main
+
+git pull origin main
+
+git init --> initalization of git 
+
+ssh-keygen -o 
