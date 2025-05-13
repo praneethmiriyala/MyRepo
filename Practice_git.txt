@@ -6,4 +6,7 @@ git pull origin main
 
 git init --> initalization of git 
 
-ssh-keygen -o 
+ssh-keygen -o  --> ssh key generator 
+
+####
+get the user data ......
